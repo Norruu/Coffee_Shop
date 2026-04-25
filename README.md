@@ -67,6 +67,15 @@ Then open the app in your browser at:
 http://127.0.0.1:8000
 ```
 
+## How to Use It
+
+Once the application is running, you can access the following features:
+
+1. **Browsing Items:** On the homepage, you can view the available coffee items and their details.
+2. **Managing Cart:** Add items to your cart, update quantities, or remove items as needed before checking out.
+3. **User Accounts:** Register a new account or log in to keep track of your orders and profile.
+4. **Admin Dashboard:** If your user has admin privileges, you can access the admin panel to manage products, categories, and view customer orders.
+
 ## Helpful Scripts
 
 - `composer run setup` installs dependencies, creates the environment file if needed, generates the key, runs migrations, and builds assets.
